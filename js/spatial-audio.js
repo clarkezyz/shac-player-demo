@@ -175,8 +175,6 @@ class SpatialAudioEngine {
                 metadata: layerData.metadata
             });
         }
-        
-        console.log(`Loaded ${layers.size} spatial layers with positions:`, this.audioSources);
     }
 
     /**
