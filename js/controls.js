@@ -494,8 +494,6 @@ class PlayerControls {
         
         // Create elevation control buttons
         this.createElevationControls();
-        
-        console.log('Direct touch controls initialized: finger IS the sprite');
     }
 
     /**
